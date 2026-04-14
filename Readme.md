@@ -28,3 +28,6 @@ bomberman 2 nes
  - FINPNDPN - (4-8)
  - GDEDMADE - (5-0)
  - BLGDJHLN - (5-3)
+ - OCKAKNCI - (5-8)
+ - ALAGDKMC - (6-1)
+
